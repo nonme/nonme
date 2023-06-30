@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![alt Real men test in production](realmen.jpg)
 
 <!--
