@@ -7,7 +7,7 @@ My interests (hobbies?) include these domains:
   - Playwright and data scrapping.
   - Mobile development with Flutter.
   - Machine Learning/Neural Networks.
-  - Competitive programming to sharpen problem-solving skills.
+  - Competitive programming.
   - Exploring new technologies like Go, Svelte, GraphQL.
   - Learning Spanish.
 
