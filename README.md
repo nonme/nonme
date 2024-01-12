@@ -1,18 +1,20 @@
-![alt Real men test in production](lain.jpg)
-
 I'm a 23-year-old software engineer currently focused on TypeScript, with expertise in Nest.js and React. 
 
-My interests (hobbies?) span various domains:
+My interests (hobbies?) include these domains:
+
+<img align="right" width="200" height="200" src="lain.jpg">
+
   - Playwright and data scrapping.
   - Mobile development with Flutter.
   - Machine Learning/Neural Networks.
   - Competitive programming to sharpen problem-solving skills.
   - Exploring new technologies like Go, Svelte, GraphQL.
-  - Learning Spanish 😎
+  - Learning Spanish.
 
-![alt Real men test in production](realmen.jpg)
+Contact me in [Telegram](https://t.me/noname_guy).
 
-(I use vitest, don't worry).
+
+
 <!--
 **nonme/nonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
