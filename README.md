@@ -1,4 +1,6 @@
+<p align="center">
 I'm a 23-year-old software engineer currently focused on TypeScript, with expertise in Nest.js and React. 
+</p>
 
 <img align="right" width="200" height="200" src="lain.jpg">
 
@@ -10,8 +12,9 @@ My interests (hobbies?) include these domains:
   - Competitive programming.
   - Exploring new technologies like Go, Svelte, GraphQL.
   - Learning Spanish.
-
-Contact me in [Telegram](https://t.me/noname_guy).
+<p align="center">
+Contact me in <a href="https://t.me/noname_guy">Telegram.</a>
+</p>
 
 
 
