@@ -1,10 +1,8 @@
-<p align="center">
-I'm a 23-year-old software engineer currently focused on TypeScript, with expertise in Nest.js and React. 
-</p>
+👋 Hi. I'm a 23-year-old software engineer currently focused on TypeScript, with expertise in Nest.js and React. 
 
 <img align="right" width="200" height="200" src="lain.jpg">
 
-My interests (hobbies?) include these domains:
+My interests include the next domains:
 
   - Playwright and data scrapping.
   - Mobile development with Flutter.
@@ -12,10 +10,6 @@ My interests (hobbies?) include these domains:
   - Competitive programming.
   - Exploring new technologies like Go, Svelte, GraphQL.
   - Learning Spanish.
-<p align="center">
-Contact me in <a href="https://t.me/noname_guy">Telegram.</a>
-</p>
-
 
 
 <!--
