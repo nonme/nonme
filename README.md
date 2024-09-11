@@ -1,16 +1,4 @@
-👋 Hi. I'm a 23-year-old software engineer currently focused on TypeScript, with expertise in Nest.js and React. 
-
 <img align="right" width="200" height="200" src="lain.jpg">
-
-My interests include the next domains:
-
-  - Playwright and data scrapping.
-  - Mobile development with Flutter.
-  - Machine Learning/Neural Networks.
-  - Competitive programming.
-  - Exploring new technologies like Go, Svelte, GraphQL.
-  - Learning Spanish.
-
 
 <!--
 **nonme/nonme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
