@@ -11,7 +11,7 @@ My interests include the next domains:
   - Learning Spanish, Swedish.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/snake-light.gif" />
-  <img alt="GitHub Snake" src="dist/snake-light.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nonme/nonme/raw/main/dist/snake-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nonme/nonme/raw/main/dist/snake-light.gif">
+  <img alt="GitHub Snake" src="https://github.com/nonme/nonme/raw/main/dist/snake-light.gif">
 </picture>
