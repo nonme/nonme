@@ -1,12 +1,12 @@
-👋 Hi. I'm a 24-year-old software engineer currently focused on TypeScript, with expertise in Nest.js and React. 
+👋 Hi, I'm Dmytro — a 25-year-old software engineer with a focus on backend and AI engineering.
 
-My interests include the next domains:
+My current stack and interests:
 
-  - Playwright, Selenium and Data Scrapping,
-  - Back-end Development using Node, Nest.js and GraphQL,
-  - Front-end Development with React and Next.js,
-  - Competitive programming, Algorithms and Data Structures,
-  - Learning Spanish 🇪🇸.
+- **Backend Development** — Go, Python, Node.js, GraphQL
+- **AI & LLM Engineering** — LangChain, LlamaIndex, RAG pipelines, multi-provider orchestration
+- **Cloud & Serverless** — AWS Lambda, SQS, S3, OpenSearch
+- **Frontend** — React, Next.js
+- **Learning** — Spanish 🇪🇸 and German 🇩🇪
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nonme/nonme/raw/main/dist/snake-dark.svg">
